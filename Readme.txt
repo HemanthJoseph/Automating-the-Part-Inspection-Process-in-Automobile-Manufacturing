@@ -1,0 +1,3 @@
+- These Simulation Models have been created using FlexSim's 3D Discrete Event Simulator software (student version)
+- You will need to have the software to open and run these models from the 'Simulation Models' folder
+- Videos of running simulations are added for your viewing
